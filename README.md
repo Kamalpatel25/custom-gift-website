@@ -31,3 +31,11 @@ moon-photo.jpg
 letter.jpg
 mem1.jpg to mem20.jpg
 audio1.mp3 to audio5.mp3
+
+### 🧠 Creator Notes:
+This was my **first full creative project**, made with guidance and support from ChatGPT.  
+Built to surprise someone special 💖
+
+---
+
+### 🔗 [Live Demo](https://codebykamal.github.io/custom-gift-website/)
