@@ -38,7 +38,7 @@ Built to surprise someone special 💖
 
 ---
 
-### 🔗 [Live Demo](https://codebykamal.github.io/custom-gift-website/)
+### 🔗 [Live Demo](https://thecoder-kamal.github.io/custom-gift-website/)
 
 ### 🔑 Access Passwords
 
