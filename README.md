@@ -10,7 +10,7 @@ This is a personalized, single-page birthday gift website made with ❤️ using
 - 📷 Photo memories gallery (slider)
 - 🎧 Audio memories player
 - 🔒 Password protection for each section
-- 🎀 Mobile-friendly & responsive design
+- 🎀 Mobile-friendly & responsive design 
 - 🌸 Falling petals and floating heart effects
 
 ## 🛠️ Built With
