@@ -39,3 +39,12 @@ Built to surprise someone special 💖
 ---
 
 ### 🔗 [Live Demo](https://codebykamal.github.io/custom-gift-website/)
+
+### 🔑 Access Passwords
+
+To unlock the special sections of this website:
+
+- 💌 View Letter Password: `YOUR PASSWORD`
+- 📷 View Memories Password: `YOUR PASSWORD`
+- 🎧 Listen to Memories Password: `YOUR PASSWORD`
+
